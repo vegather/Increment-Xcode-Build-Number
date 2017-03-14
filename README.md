@@ -1,5 +1,6 @@
 # Increment Xcode Build Number
 A Swift script that will increase the build number of all your Xcode projects. This only works for standalone Xcode projects, if your project is inside a workspace, this script will not do anything.
+
 The script is written in Swift 3.0.2
 
 
